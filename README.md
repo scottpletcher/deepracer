@@ -1,6 +1,7 @@
 # AWS DeepRacer Experimentation
 
 |Iteration|Model Codename|Strategy| 
+| ------------- |:-------------:| -----:|
 |1|["PurePursuit"](v1PurePursuit.md)|A Pure Pursuit algorithm inspired approach|
 |2|"RacingLine"|Use waypoints and lane preference to encourage a racing line|
 |3|"GetFast"|Add an exponential speed component|
