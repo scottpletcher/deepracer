@@ -13,3 +13,4 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 |5|in development||
 
 ## Hyperparameter Optimizaiton
+todo
