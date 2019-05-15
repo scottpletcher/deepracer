@@ -1,6 +1,6 @@
 # AWS DeepRacer Experimentation
 
-This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.com/deepracer/) training.
+This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.com/deepracer/) training.  I hope this might help out someone just getting started or inspire some different approachs.
 
 ## Reward Functions
 
