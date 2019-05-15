@@ -2,7 +2,7 @@
 
 While digging more into reinforcement learning theory, I happened across a statement that I hadn't considered before and it just blew my mind.  Paraphrasing here...
 
-> With surervised learning, your model will only be as good as the ground truth you have to give it.  With reinforcement learning, the model has the potential to become better than anything or anyone has ever done that thing.
+> With supervised learning, your model will only be as good as the ground truth you have to give it.  With reinforcement learning, the model has the potential to become better than anything or anyone has ever done that thing.
 
 So, rather than be so bold as to think I know the best and fastest way to get that car around the track, what if I just trust in the reinforcement learning process to figure out the best way!  I decided to create the simplest function I possibly could that simply motivated the model to stay on the track and get around in as few steps as possible.   My thinking was that more progress in fewer steps, so long as we're on the track, means a more effiecnt lap.
 
