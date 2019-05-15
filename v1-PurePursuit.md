@@ -1,10 +1,10 @@
 # Iteration 1 - PurePursuit
 
-This was my first venture outside the examples provided by AWS.  I quite literally opened up a browser and googled ["how to train your self-driving car"](https://www.google.com/search?q=how+to+train+your+self-driving+car&oq=how+to+train+your+self-driving+car).  After sifting through the results, I happened on an acedemic paper from 1992 by R. Craig Coulter titled ["Implementation of the Pure Pursuit Tracking Algorithm"](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf) and it just made sense.
+This was my first venture outside the examples provided by AWS.  I quite literally opened up a browser and googled ["how to train your self-driving car"](https://www.google.com/search?q=how+to+train+your+self-driving+car&oq=how+to+train+your+self-driving+car).  After sifting through the results, I happened upon an acedemic paper from 1992 by R. Craig Coulter titled ["Implementation of the Pure Pursuit Tracking Algorithm"](https://www.ri.cmu.edu/pub_files/pub3/coulter_r_craig_1992_1/coulter_r_craig_1992_1.pdf) and it just made sense to me.
 
 When we drive a real car, we don't look out the side window and ensure we're a distance from the side of the road...rather, we identify a point down the road and use that to orient ourselves.  Pure Pursuit made sense to me so I tried to implement it.
 
-It was developed using SageMaker and the Jupyter Notebook provided by AWS for those hell-bent on playing with DeepRacer before the console was released.  In that version, the reward function was a little different in how the parameters were passed in so if you want to use this code in the current DeepRacer console, you'll need to modify it a bit.
+It was developed using SageMaker, RoboMaker and the Jupyter Notebook provided by AWS for those hell-bent on playing with DeepRacer before the console was released.  In that version, the reward function was a little different in how the parameters were passed in so if you want to use this code in the current DeepRacer console, you'll need to modify it a bit.
 
 I left all the hyperparameters default and trained for about 4 hours.  The AWS Summit in Santa Clara was the first time the model ran in a real DeepRacer car and managed to earn [4th place](https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-santa-clara-summit/) at the end of the day.
 
