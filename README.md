@@ -2,6 +2,8 @@
 
 This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.com/deepracer/) training.
 
+## Reward Functions
+
 |Iteration|Model Codename|Strategy| 
 | :---: |:---:|:-----|
 |1|["PurePursuit"](./iterations/v1-PurePursuit.md)|A Pure Pursuit algorithm inspired approach|
@@ -9,3 +11,5 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 |3|["GetFast"](./iterations/v3-GetFast.md)|Add an exponential speed component|
 |4|["SelfMotivator"](./iterations/v4-SelfMotivator)|Simply encourage getting around the track in as few steps as possible|
 |5|in development||
+
+## Hyperparameter Optimizaiton
