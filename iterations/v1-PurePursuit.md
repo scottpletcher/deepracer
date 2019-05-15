@@ -6,7 +6,7 @@ When we drive a real car, we don't look out the side window and ensure we're a d
 
 It was developed using SageMaker, RoboMaker and the Jupyter Notebook provided by AWS for those hell-bent on playing with DeepRacer before the console was released.  In that version, the reward function was a little different in how the parameters were passed in so if you want to use this code in the current DeepRacer console, you'll need to modify it a bit.
 
-I left all the hyperparameters default and trained for about 4 hours.  I walk through the function in the [presentation I gave at the AWS Summit in Atlanta](https://github.com/scottpletcher/deepracer/blob/master/AWS%20Summit%20ATL%20-%20Deepracer.pdf).
+I left all the hyperparameters default and trained for about 4 hours.  I walk through the function in the [presentation I gave at the AWS Summit in Atlanta](./assets/AWS%20Summit%20ATL%20-%20Deepracer.pdf).
 
 ## Results
 The AWS Summit in Santa Clara was the first time the model ran in a real DeepRacer car and managed to earn [4th place](https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-santa-clara-summit/) at the end of the day.
