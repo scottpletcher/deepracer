@@ -10,7 +10,7 @@ This is an informal log of my exploration of [AWS DeepRacer](https://aws.amazon.
 |2|["RacingLine"](./iterations/v2-RacingLine.md)|Use waypoints and lane preference to encourage a racing line|
 |3|["GetFast"](./iterations/v3-GetFast.md)|Add an exponential speed component|
 |4|["SelfMotivator"](./iterations/v4-SelfMotivator.md)|Simply encourage getting around the track in as few steps as possible|
-|5|["Minimalist"](./iterations/v4-SelfMotivator.md)|How minimal can we go?|
+|5|["Minimalist"](./iterations/v5-Minimalist.md)|How minimal can we go?|
 
 ## Hyperparameter Optimizaiton
 todo
