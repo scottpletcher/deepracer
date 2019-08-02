@@ -1,6 +1,6 @@
 # Iteration 5 - Minimalist
 
-What if we took the SelfMotivator concept to the extreme.  @Carsair posed the [question on this repo](https://github.com/scottpletcher/deepracer/issues/1#issuecomment-512659268) as to whether using progress as the only factor might yeild some interesting results.
+What if we took the SelfMotivator concept to the extreme.  [@Carsair](https://github.com/Carsair) posed the [question on this repo](https://github.com/scottpletcher/deepracer/issues/1#issuecomment-512659268) as to whether using progress as the only factor might yeild some interesting results.
 
 I tried this and was really surprised by the results.  A similar function is included in the AWS documentation as a sort of basic example of a reward function.
 
