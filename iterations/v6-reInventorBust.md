@@ -6,7 +6,8 @@ I trained across the basic Oval, reInvent track, Bowtie, Empire, Shanghai and Cu
 
 ## Results
 You'll just have to wait until re:Invent to see.... :)
-UPDATE: I managed to miss out on making to the "Round of 16" by just a few tenths of a second.  You can see the whole sordid story here:  [DeepRacer: At the Apex (https://www.youtube.com/watch?v=zVmFobnPP2U&list=PLI1_CQcV71RkakfA9Ar59soxRCkCmkPSt&index=8)]
+
+UPDATE: I managed to miss out on making to the "Round of 16" by just a few tenths of a second.  You can see the whole sordid story here:  [DeepRacer: At the Apex](https://www.youtube.com/watch?v=zVmFobnPP2U&list=PLI1_CQcV71RkakfA9Ar59soxRCkCmkPSt&index=8)
 
 ## Reward Function
 
