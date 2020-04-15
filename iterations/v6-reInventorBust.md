@@ -5,7 +5,7 @@ Ok, after much trial and error, I'm going to try an alternative strategy.  I'm g
 I trained across the basic Oval, reInvent track, Bowtie, Empire, Shanghai and Cumulo for 1 hour each, cloning for each iteration.  Adjusted the batch size to 128, switched to Huber loss after Empire.  Left all other hyperparameters the same.
 
 ## Results
-You'll just have to wait until re:Invent to see.... :)
+~~You'll just have to wait until re:Invent to see.... :)~~
 
 UPDATE: I managed to miss out on making to the "Round of 16" by just a few tenths of a second.  You can see the whole sordid story here:  [DeepRacer: At the Apex](https://www.youtube.com/watch?v=zVmFobnPP2U&list=PLI1_CQcV71RkakfA9Ar59soxRCkCmkPSt&index=8)
 
